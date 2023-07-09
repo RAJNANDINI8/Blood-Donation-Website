@@ -76,7 +76,7 @@ font-family: sans-serif;
 
 #Home::before {
     content: "";
-    background: url('../img/blooood.png') no-repeat center center/cover;
+    background: url('./blooood.png') no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left: 0px;
